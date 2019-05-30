@@ -66,11 +66,32 @@ body {
     color:#FFF;
     font-size:80px;
     margin-top:30px;}
+
+#titulo2{
+    color:#FFF;
+    font-size:50px;
+    margin-top:30px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
 #subtitulo{
     font-size:50px;
     color:#CC3B3B;
     text-align: center;
 }
+
+#subtitulo2{
+    color:#FFF;
+    font-size:30px;
+    margin-top:30px;
+    margin-bottom: 10px;
+    text-align: center;
+
+
+}
+
+
 #texto {
     color:#FFF;
 }
@@ -357,8 +378,16 @@ button:focus {
     margin-left: 100px;
     margin-top: 40px;
     margin-right: 100px;
+    text-align: justify;
 }
 
+.container2 {
+    float: left;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-right: 200px;
+    text-align: justify;
+}
 
 
 
@@ -724,6 +753,31 @@ fieldset.radioEmpty input:focus{
     margin-top: 50px;
 }
 
+#rutinabloque2 {
+    width: 33%;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+
+
+
+
+}
+
+#rutinabloque3 {
+    height:150px;
+    width:200px;
+    float: left;
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 130px;
+
+
+
+}
 .exerciseimg {
     width: 100px;
     height: 200px;
@@ -732,3 +786,27 @@ fieldset.radioEmpty input:focus{
 #margin-reg {
     padding-top: 60px;
 }
+
+li{
+    color:#FFF;
+    text-align: left;
+
+
+
+
+}
+
+.li1{
+    margin-left: 20px;
+}
+
+.li2{
+    margin-left: 160px;
+
+}
+
+.li3{
+    margin-left: 140px;
+
+}
+
